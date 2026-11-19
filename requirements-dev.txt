@@ -1,0 +1,9 @@
+# Everything needed to rebuild the project from raw data, run the tests and the notebooks
+-r requirements.txt
+matplotlib>=3.8
+jupyter
+nbformat
+nbconvert
+ipykernel
+pytest>=8
+ruff

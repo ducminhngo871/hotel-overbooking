@@ -1,0 +1,13 @@
+{
+  "capacity": {
+    "City Hotel": 226,
+    "Resort Hotel": 187
+  },
+  "base_late_rate": 0.06,
+  "test_start": "2017-01-01",
+  "walk_multiple": 3.0,
+  "clumping_rho": {
+    "City Hotel": 0.029,
+    "Resort Hotel": 0.0245
+  }
+}

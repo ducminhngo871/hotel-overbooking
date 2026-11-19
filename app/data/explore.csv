@@ -1,0 +1,75 @@
+hotel,deposit_type,market_segment,distribution_channel,bookings,cancel_rate,late_rate
+City Hotel,No Deposit,Aviation,Corporate,225,0.22666666666666666,0.2088888888888889
+City Hotel,No Deposit,Aviation,TA/TO,10,0.1,0.1
+City Hotel,No Deposit,Complementary,Corporate,61,0.16393442622950818,0.16393442622950818
+City Hotel,No Deposit,Complementary,Direct,430,0.10465116279069768,0.09069767441860466
+City Hotel,No Deposit,Complementary,TA/TO,36,0.027777777777777776,0.0
+City Hotel,No Deposit,Corporate,Corporate,2389,0.13478442863122644,0.08162411050648807
+City Hotel,No Deposit,Corporate,Direct,55,0.03636363636363636,0.03636363636363636
+City Hotel,No Deposit,Corporate,TA/TO,220,0.09545454545454546,0.05
+City Hotel,No Deposit,Direct,Corporate,5,0.6,0.4
+City Hotel,No Deposit,Direct,Direct,6009,0.17207522050257945,0.08553835912797471
+City Hotel,No Deposit,Direct,GDS,1,0.0,0.0
+City Hotel,No Deposit,Direct,TA/TO,37,0.02702702702702703,0.02702702702702703
+City Hotel,No Deposit,Direct,Undefined,1,1.0,1.0
+City Hotel,No Deposit,Groups,Corporate,200,0.095,0.035
+City Hotel,No Deposit,Groups,Direct,57,0.19298245614035087,0.05263157894736842
+City Hotel,No Deposit,Groups,TA/TO,6041,0.32014567124648236,0.08376096672736302
+City Hotel,No Deposit,Offline TA/TO,Corporate,193,0.5077720207253886,0.5077720207253886
+City Hotel,No Deposit,Offline TA/TO,Direct,6,0.16666666666666666,0.16666666666666666
+City Hotel,No Deposit,Offline TA/TO,GDS,45,0.17777777777777778,0.1111111111111111
+City Hotel,No Deposit,Offline TA/TO,TA/TO,11611,0.1899061235035742,0.05589527172508828
+City Hotel,No Deposit,Online TA,Corporate,23,0.21739130434782608,0.17391304347826086
+City Hotel,No Deposit,Online TA,Direct,53,0.05660377358490566,0.05660377358490566
+City Hotel,No Deposit,Online TA,GDS,147,0.19727891156462585,0.06802721088435375
+City Hotel,No Deposit,Online TA,TA/TO,38417,0.37517244969674884,0.06275867454512325
+City Hotel,No Deposit,Online TA,Undefined,1,1.0,1.0
+City Hotel,No Deposit,Undefined,Undefined,2,1.0,1.0
+City Hotel,Non Refund,Corporate,Corporate,236,0.9364406779661016,0.2330508474576271
+City Hotel,Non Refund,Corporate,TA/TO,73,1.0,0.0
+City Hotel,Non Refund,Direct,Direct,18,0.8888888888888888,0.0
+City Hotel,Non Refund,Groups,Corporate,36,0.9722222222222222,0.9444444444444444
+City Hotel,Non Refund,Groups,Direct,120,0.975,0.0
+City Hotel,Non Refund,Groups,TA/TO,7504,1.0,0.01052771855010661
+City Hotel,Non Refund,Offline TA/TO,Corporate,5,1.0,0.0
+City Hotel,Non Refund,Offline TA/TO,TA/TO,4849,0.9997937719117344,0.011548772942874819
+City Hotel,Non Refund,Online TA,Corporate,9,1.0,1.0
+City Hotel,Non Refund,Online TA,TA/TO,17,0.8823529411764706,0.11764705882352941
+City Hotel,Refundable,Corporate,Corporate,4,0.25,0.0
+City Hotel,Refundable,Direct,Direct,1,1.0,1.0
+City Hotel,Refundable,Groups,TA/TO,1,0.0,0.0
+City Hotel,Refundable,Offline TA/TO,TA/TO,2,0.0,0.0
+City Hotel,Refundable,Online TA,TA/TO,12,1.0,0.8333333333333334
+Resort Hotel,No Deposit,Complementary,Corporate,20,0.15,0.1
+Resort Hotel,No Deposit,Complementary,Direct,139,0.17266187050359713,0.1223021582733813
+Resort Hotel,No Deposit,Complementary,TA/TO,42,0.14285714285714285,0.11904761904761904
+Resort Hotel,No Deposit,Corporate,Corporate,2128,0.15084586466165414,0.08317669172932331
+Resort Hotel,No Deposit,Corporate,Direct,111,0.0990990990990991,0.09009009009009009
+Resort Hotel,No Deposit,Corporate,TA/TO,41,0.024390243902439025,0.024390243902439025
+Resort Hotel,No Deposit,Direct,Corporate,84,0.08333333333333333,0.08333333333333333
+Resort Hotel,No Deposit,Direct,Direct,6222,0.13837994214079075,0.05271616843458695
+Resort Hotel,No Deposit,Direct,TA/TO,197,0.04568527918781726,0.01015228426395939
+Resort Hotel,No Deposit,Direct,Undefined,1,0.0,0.0
+Resort Hotel,No Deposit,Groups,Corporate,756,0.1574074074074074,0.03306878306878307
+Resort Hotel,No Deposit,Groups,Direct,945,0.16613756613756614,0.04656084656084656
+Resort Hotel,No Deposit,Groups,TA/TO,2489,0.29369224588188025,0.06307754118119727
+Resort Hotel,No Deposit,Offline TA/TO,Corporate,14,0.0,0.0
+Resort Hotel,No Deposit,Offline TA/TO,Direct,10,0.2,0.0
+Resort Hotel,No Deposit,Offline TA/TO,TA/TO,7293,0.13478678184560539,0.023035787741670095
+Resort Hotel,No Deposit,Online TA,Corporate,11,0.0,0.0
+Resort Hotel,No Deposit,Online TA,Direct,77,0.07792207792207792,0.03896103896103896
+Resort Hotel,No Deposit,Online TA,TA/TO,17605,0.3525702925305311,0.028798636750923035
+Resort Hotel,Non Refund,Corporate,Corporate,20,0.65,0.65
+Resort Hotel,Non Refund,Corporate,Direct,5,1.0,1.0
+Resort Hotel,Non Refund,Direct,Direct,1,0.0,0.0
+Resort Hotel,Non Refund,Groups,Corporate,232,0.9698275862068966,0.04310344827586207
+Resort Hotel,Non Refund,Groups,Direct,254,0.984251968503937,0.1377952755905512
+Resort Hotel,Non Refund,Groups,TA/TO,1026,0.9541910331384016,0.001949317738791423
+Resort Hotel,Non Refund,Offline TA/TO,TA/TO,151,0.9867549668874173,0.0
+Resort Hotel,Non Refund,Online TA,TA/TO,30,0.9666666666666667,0.6
+Resort Hotel,Refundable,Direct,Direct,2,0.5,0.5
+Resort Hotel,Refundable,Direct,TA/TO,3,0.0,0.0
+Resort Hotel,Refundable,Groups,Direct,95,0.08421052631578947,0.08421052631578947
+Resort Hotel,Refundable,Groups,TA/TO,34,0.14705882352941177,0.029411764705882353
+Resort Hotel,Refundable,Offline TA/TO,TA/TO,2,1.0,1.0
+Resort Hotel,Refundable,Online TA,TA/TO,6,1.0,1.0

@@ -1,0 +1,12 @@
+# raw and intermediate data (re-create with scripts/download_data.py + scripts/run_pipeline.py)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# app/data/ and models/ ARE committed: Streamlit Cloud and the tests need them

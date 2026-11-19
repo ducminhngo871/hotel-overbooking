@@ -1,0 +1,202 @@
+{
+  "cleaning": {
+    "zero guests": 180,
+    "negative ADR": 1,
+    "ADR >= 1000 EUR": 1,
+    "rows before": 119390,
+    "rows after": 119208
+  },
+  "explore": {
+    "bookings": 119208,
+    "cancel_rate_all": 0.3708,
+    "cancel_rate_by_hotel": {
+      "City Hotel": 0.4179,
+      "Resort Hotel": 0.2777
+    },
+    "status_counts": {
+      "Check-Out": 75010,
+      "Canceled": 42992,
+      "No-Show": 1206
+    },
+    "median_days_cancel_before_arrival": 56.0,
+    "share_cancels_within_7d": 0.119,
+    "late_rate_active_by_hotel": {
+      "City Hotel": 0.0938,
+      "Resort Hotel": 0.051
+    },
+    "nonrefund_cancel_rate": 0.9936,
+    "nonrefund_n": 14586,
+    "nonrefund_median_lead": 183.0,
+    "all_median_lead": 69.0
+  },
+  "late_rate_by_year": {
+    "City Hotel": {
+      "2015": 0.1199,
+      "2016": 0.1049,
+      "2017": 0.0636
+    },
+    "Resort Hotel": {
+      "2015": 0.0563,
+      "2016": 0.0468,
+      "2017": 0.0537
+    }
+  },
+  "models": {
+    "auc_is_canceled_clean_timesplit": 0.805,
+    "auc_is_canceled_with_leaky_columns": 0.865,
+    "auc_is_canceled_random_split": 0.83,
+    "auc_late_logit": 0.652,
+    "auc_late_gradient_boosting": 0.69,
+    "late_rate_train": 0.0863,
+    "late_rate_test": 0.06,
+    "mean_pred_test": 0.0876
+  },
+  "capacity_estimate": {
+    "City Hotel": 226,
+    "Resort Hotel": 187
+  },
+  "share_nights_booked_above_capacity": {
+    "City Hotel": 0.362,
+    "Resort Hotel": 0.165
+  },
+  "share_nights_near_full": {
+    "City Hotel": 0.509,
+    "Resort Hotel": 0.522
+  },
+  "validation_2016H2_w3": {
+    "City Hotel | No overbooking": {
+      "gain_eur": 0,
+      "nights_with_walk": 0
+    },
+    "City Hotel | Fixed rule (Jul 15-Jun 16)": {
+      "gain_eur": 177484,
+      "nights_with_walk": 73
+    },
+    "City Hotel | Rolling 28-night rate": {
+      "gain_eur": 179938,
+      "nights_with_walk": 60
+    },
+    "City Hotel | Rolling rate + clumping": {
+      "gain_eur": 161576,
+      "nights_with_walk": 10
+    },
+    "Resort Hotel | No overbooking": {
+      "gain_eur": 0,
+      "nights_with_walk": 0
+    },
+    "Resort Hotel | Fixed rule (Jul 15-Jun 16)": {
+      "gain_eur": 33557,
+      "nights_with_walk": 55
+    },
+    "Resort Hotel | Rolling 28-night rate": {
+      "gain_eur": 32115,
+      "nights_with_walk": 49
+    },
+    "Resort Hotel | Rolling rate + clumping": {
+      "gain_eur": 17750,
+      "nights_with_walk": 1
+    }
+  },
+  "clumping_rho_2017": {
+    "City Hotel": 0.029,
+    "Resort Hotel": 0.0245
+  },
+  "backtest_w3": {
+    "City Hotel | No overbooking": {
+      "gain_eur": 0,
+      "gain_pct": 0.0,
+      "avg_overbook": 0.0,
+      "nights_with_walk": 0,
+      "guests_walked": 0,
+      "gain_eur_full_nights_only": 0
+    },
+    "City Hotel | Fixed rule (2015-16)": {
+      "gain_eur": -39829,
+      "gain_pct": -0.67,
+      "avg_overbook": 17.0,
+      "nights_with_walk": 155,
+      "guests_walked": 973,
+      "gain_eur_full_nights_only": -21811
+    },
+    "City Hotel | Model, no update": {
+      "gain_eur": -336253,
+      "gain_pct": -5.67,
+      "avg_overbook": 23.9,
+      "nights_with_walk": 207,
+      "guests_walked": 2031,
+      "gain_eur_full_nights_only": -145472
+    },
+    "City Hotel | Rolling 28-night rate": {
+      "gain_eur": 134800,
+      "gain_pct": 2.27,
+      "avg_overbook": 14.5,
+      "nights_with_walk": 109,
+      "guests_walked": 510,
+      "gain_eur_full_nights_only": 86022
+    },
+    "City Hotel | Model + rolling update": {
+      "gain_eur": 125406,
+      "gain_pct": 2.11,
+      "avg_overbook": 14.9,
+      "nights_with_walk": 99,
+      "guests_walked": 577,
+      "gain_eur_full_nights_only": 92565
+    },
+    "City Hotel | Rolling rate + clumping": {
+      "gain_eur": 182606,
+      "gain_pct": 3.08,
+      "avg_overbook": 8.5,
+      "nights_with_walk": 24,
+      "guests_walked": 53,
+      "gain_eur_full_nights_only": 86217
+    },
+    "Resort Hotel | No overbooking": {
+      "gain_eur": 0,
+      "gain_pct": 0.0,
+      "avg_overbook": 0.0,
+      "nights_with_walk": 0,
+      "guests_walked": 0,
+      "gain_eur_full_nights_only": 0
+    },
+    "Resort Hotel | Fixed rule (2015-16)": {
+      "gain_eur": 69743,
+      "gain_pct": 1.57,
+      "avg_overbook": 4.0,
+      "nights_with_walk": 34,
+      "guests_walked": 57,
+      "gain_eur_full_nights_only": 28545
+    },
+    "Resort Hotel | Model, no update": {
+      "gain_eur": 48386,
+      "gain_pct": 1.09,
+      "avg_overbook": 6.9,
+      "nights_with_walk": 97,
+      "guests_walked": 309,
+      "gain_eur_full_nights_only": 30507
+    },
+    "Resort Hotel | Rolling 28-night rate": {
+      "gain_eur": 41165,
+      "gain_pct": 0.93,
+      "avg_overbook": 6.0,
+      "nights_with_walk": 88,
+      "guests_walked": 255,
+      "gain_eur_full_nights_only": 29753
+    },
+    "Resort Hotel | Model + rolling update": {
+      "gain_eur": 44853,
+      "gain_pct": 1.01,
+      "avg_overbook": 6.1,
+      "nights_with_walk": 74,
+      "guests_walked": 254,
+      "gain_eur_full_nights_only": 29267
+    },
+    "Resort Hotel | Rolling rate + clumping": {
+      "gain_eur": 46358,
+      "gain_pct": 1.05,
+      "avg_overbook": 3.0,
+      "nights_with_walk": 25,
+      "guests_walked": 47,
+      "gain_eur_full_nights_only": 17363
+    }
+  }
+}

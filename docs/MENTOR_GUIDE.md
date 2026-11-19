@@ -45,7 +45,7 @@ the checks (about 2 minutes).
 | 8 | Newsvendor rule, room-nights | `policy.expected_curve`, notebook 03 | Why should the hotel stop at the 25th percentile of late losses when w = 3? |
 | 9 | Backtest six rules; validation | `policy.backtest`, notebook 03 | You had the clumping idea after seeing 2017. What must you do before you may claim it works? |
 | 10-12 | Streamlit app, tests, deploy | `app/`, `tests/` | Could a hotel manager with no coding background use page 2 unaided? |
-| 13-14 | Report, README, 2-minute video, hotel interview | `report/report.md` | Does every finding carry one concrete number? Did a real hotel confirm or contradict w = 3? |
+| 13-14 | Report, README, hotel interview | `report/report.md` | Does every finding carry one concrete number? Did a real hotel confirm or contradict w = 3? |
 
 Weeks 8 and 9 are the heaviest. If the student is behind, the brief allows stretching to 16 weeks.
 

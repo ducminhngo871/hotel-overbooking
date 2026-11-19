@@ -10,7 +10,7 @@
 - **Kỹ năng dữ liệu:** Python, xử lý bảng dữ liệu, vẽ biểu đồ, học máy cơ bản, mô phỏng, làm app web, dùng Git và GitHub.
 - **Tư duy nghiên cứu:** đặt câu hỏi, kiểm chứng bằng dữ liệu, tự phát hiện và sửa sai.
 
-**Đầu ra:** một app web chạy thật có link chia sẻ, một báo cáo nghiên cứu, một kho code trên GitHub và một video demo 2 phút, sẵn sàng đưa vào hồ sơ du học.
+**Đầu ra:** một app web chạy thật có link chia sẻ, một báo cáo nghiên cứu và một kho code trên GitHub, sẵn sàng đưa vào hồ sơ du học.
 
 **Thời lượng:** 14 tuần, khoảng 2–4 giờ mỗi tuần, có mentor kèm từ đầu đến cuối.
 
@@ -129,7 +129,7 @@ Hẹn gặp quản lý hoặc lễ tân một khách sạn ở Hà Nội (15–2
 | 11 | Biểu đồ tương tác | Trang "Quyết định đêm nay" và "So sánh các quy tắc" | App 3 trang |
 | 12 | Kiểm thử, triển khai | Trang "Khám phá dữ liệu", viết test, đưa app lên Streamlit Cloud | Link app công khai |
 | 13 | Viết báo cáo khoa học | Báo cáo tiếng Anh, có mục "những lỗi tôi đã gặp"; phỏng vấn khách sạn | Bản nháp báo cáo |
-| 14 | Trình bày dự án | Hoàn thiện README, sửa báo cáo, quay video demo 2 phút | Bộ hồ sơ dự án hoàn chỉnh |
+| 14 | Trình bày dự án | Hoàn thiện README, sửa báo cáo, chuẩn bị trình bày dự án | Bộ hồ sơ dự án hoàn chỉnh |
 
 Các tuần 8 và 9 thường nặng nhất. Nếu cần, có thể giãn thành 16 tuần.
 
@@ -193,7 +193,6 @@ hotel-overbooking/
 - [ ] Có tóm tắt cuộc nói chuyện với một khách sạn thật
 - [ ] Mỗi phát hiện chính có một con số cụ thể
 - [ ] README trên GitHub có hướng dẫn chạy, link app, link báo cáo
-- [ ] Video demo 2 phút
 
 ## Dùng cho hồ sơ thế nào
 
@@ -203,7 +202,7 @@ hotel-overbooking/
 | --- | --- |
 | Hoạt động ngoại khóa | Một dòng có con số, ví dụ "Phân tích 119.000 lượt đặt phòng để quyết định khách sạn nên bán vượt bao nhiêu phòng; phát hiện…" |
 | Bài luận "Why this major" | Kể lúc mô hình của bạn làm khách sạn *mất* tiền, và bạn tìm ra lý do |
-| Portfolio | Gửi link app, báo cáo, video để người đọc tự dùng thử |
+| Portfolio | Gửi link app và báo cáo để người đọc tự dùng thử |
 | Phỏng vấn | Một chủ đề bạn nói được 10 phút, có số liệu và cuộc nói chuyện với khách sạn thật |
 
 Không dự án nào đảm bảo kết quả trúng tuyển. Nhưng một sản phẩm thật, do chính bạn làm và giải thích được, giúp hồ sơ khác biệt.

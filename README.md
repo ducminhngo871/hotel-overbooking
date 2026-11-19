@@ -7,7 +7,6 @@ decision rules on eight months the models never saw. Everything ends in an inter
 
 * **Report:** [`report/report.md`](report/report.md) (English, every finding has a number)
 * **Live web app:** https://hotel-overbooking-ducngo.streamlit.app/ (or run locally: `streamlit run app/streamlit_app.py`)
-* **2-minute video:** _<link>_
 * **Mentors:** [`docs/MENTOR_GUIDE.md`](docs/MENTOR_GUIDE.md) maps the 14 weeks to the code and lists the traps
 * **Original brief (Vietnamese):** [`docs/project_brief_vi.md`](docs/project_brief_vi.md)
 * **Related project:** [Does LendingClub charge fair interest?](https://github.com/ducminhngo871/lendingclub-fair-rates)

@@ -6,7 +6,7 @@ bookings will be lost at the last minute, turns those predictions into a nightly
 decision rules on eight months the models never saw. Everything ends in an interactive web app.
 
 * **Report:** [`report/report.md`](report/report.md) (English, every finding has a number)
-* **Web app:** _<Streamlit Cloud link: deploy `app/streamlit_app.py` on share.streamlit.io>_ (or run locally: `streamlit run app/streamlit_app.py`)
+* **Live web app:** https://hotel-overbooking-ducngo.streamlit.app/ (or run locally: `streamlit run app/streamlit_app.py`)
 * **2-minute video:** _<link>_
 * **Mentors:** [`docs/MENTOR_GUIDE.md`](docs/MENTOR_GUIDE.md) maps the 14 weeks to the code and lists the traps
 * **Original brief (Vietnamese):** [`docs/project_brief_vi.md`](docs/project_brief_vi.md)
@@ -77,7 +77,7 @@ ruff check .
 
 1. Push this folder to GitHub (the `.gitignore` already keeps the raw data out).
 2. On [share.streamlit.io](https://share.streamlit.io) choose the repository and set the main file to `app/streamlit_app.py`.
-3. Paste the public link at the top of this README.
+3. Paste the public link at the top of this README (done: see the live link above).
 
 ## Limits
 

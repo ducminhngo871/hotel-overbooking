@@ -208,4 +208,5 @@ I do not know exactly what it costs to walk a guest, so I tried values from 1× 
 - Antonio, N., de Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. *Data in Brief*, 22, 41–49.
 - Data used: TidyTuesday 2020-02-11 copy of the dataset, https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-02-11
 - Talluri, K. T., & van Ryzin, G. J. (2004). *The Theory and Practice of Revenue Management*. Springer. (Chapter 4: overbooking.)
-- Code, app and full results: https://github.com/ducminhngo871/hotel-overbooking
+- Code and full results: https://github.com/ducminhngo871/hotel-overbooking
+- Interactive app: https://hotel-overbooking-ducngo.streamlit.app/
